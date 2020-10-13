@@ -1,5 +1,6 @@
 " wpgtk.vim -- Vim color scheme.
-" Author:       Dylan Araps, modified by Matthew Krohn and DeviantFero
+" Author:       Dylan Araps, modified by Matthew Krohn and DeviantFero and
+" Alan Miles,
 " Webpage:      https://github.com/dylanaraps/wal
 " Description:  A colorscheme that uses your terminal colors, made to work with 'wpgtk'.
 
@@ -18,7 +19,7 @@ let g:colors_name = 'wpgtkAlt'
 " set t_Co=16
 hi Normal ctermbg=NONE ctermfg=15
 hi NonText ctermbg=NONE ctermfg=0
-hi Comment ctermbg=NONE ctermfg=7 cterm=italic
+hi Comment ctermbg=NONE ctermfg=5 cterm=italic
 hi Constant ctermbg=NONE ctermfg=11
 hi Error ctermbg=9 ctermfg=15
 hi Identifier ctermbg=NONE ctermfg=9 cterm=BOLD
@@ -40,8 +41,8 @@ hi TermCursorNC ctermbg=11 ctermfg=0
 hi VertSplit ctermbg=8 ctermfg=0
 hi Title ctermbg=NONE ctermfg=12
 hi CursorLine ctermbg=8 ctermfg=none
-hi LineNr ctermbg=NONE ctermfg=8
-hi CursorLineNr ctermbg=NONE ctermfg=8
+hi LineNr ctermbg=NONE ctermfg=9
+hi CursorLineNr ctermbg=NONE ctermfg=10
 hi helpLeadBlank ctermbg=NONE ctermfg=15
 hi helpNormal ctermbg=NONE ctermfg=15
 hi Visual ctermbg=0 ctermfg=15 cterm=reverse term=reverse
