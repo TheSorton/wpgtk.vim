@@ -38,11 +38,11 @@ hi TabLine ctermbg=NONE ctermfg=8
 hi TabLineFill ctermbg=NONE ctermfg=8
 hi TabLineSel ctermbg=12 ctermfg=0
 hi TermCursorNC ctermbg=11 ctermfg=0
-hi VertSplit ctermbg=8 ctermfg=0
+hi VertSplit ctermbg=8 ctermfg=15
 hi Title ctermbg=NONE ctermfg=12
 hi CursorLine ctermbg=8 ctermfg=none
 hi LineNr ctermbg=NONE ctermfg=2
-hi CursorLineNr ctermbg=NONE ctermfg=10
+hi CursorLineNr ctermbg=NONE ctermfg=4
 hi helpLeadBlank ctermbg=NONE ctermfg=15
 hi helpNormal ctermbg=NONE ctermfg=15
 hi Visual ctermbg=0 ctermfg=15 cterm=reverse term=reverse
