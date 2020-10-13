@@ -41,7 +41,7 @@ hi TermCursorNC ctermbg=11 ctermfg=0
 hi VertSplit ctermbg=8 ctermfg=0
 hi Title ctermbg=NONE ctermfg=12
 hi CursorLine ctermbg=8 ctermfg=none
-hi LineNr ctermbg=NONE ctermfg=9
+hi LineNr ctermbg=NONE ctermfg=2
 hi CursorLineNr ctermbg=NONE ctermfg=10
 hi helpLeadBlank ctermbg=NONE ctermfg=15
 hi helpNormal ctermbg=NONE ctermfg=15
